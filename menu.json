@@ -1,0 +1,94 @@
+{
+    "appetizers": [
+        {
+            "name": "Paneer Tikka",
+            "price": 250.00
+        },
+        {
+            "name": "Chicken 65",
+            "price": 300.00
+        },
+        {
+            "name": "Samosa",
+            "price": 100.00
+        },
+        {
+            "name": "Hara Bhara Kebab",
+            "price": 200.00
+        },
+        {
+            "name": "Prawn Koliwada",
+            "price": 350.00
+        }
+    ],
+    "main_courses": [
+        {
+            "name": "Butter Chicken",
+            "price": 450.00
+        },
+        {
+            "name": "Paneer Butter Masala",
+            "price": 400.00
+        },
+        {
+            "name": "Rogan Josh",
+            "price": 550.00
+        },
+        {
+            "name": "Biryani",
+            "price": 500.00
+        },
+        {
+            "name": "Dal Makhani",
+            "price": 300.00
+        },
+        {
+            "name": "Fish Curry",
+            "price": 600.00
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Gulab Jamun",
+            "price": 150.00
+        },
+        {
+            "name": "Ras Malai",
+            "price": 180.00
+        },
+        {
+            "name": "Jalebi",
+            "price": 100.00
+        },
+        {
+            "name": "Kheer",
+            "price": 120.00
+        },
+        {
+            "name": "Kulfi",
+            "price": 130.00
+        }
+    ],
+    "beverages": [
+        {
+            "name": "Masala Chai",
+            "price": 50.00
+        },
+        {
+            "name": "Lassi",
+            "price": 80.00
+        },
+        {
+            "name": "Cold Coffee",
+            "price": 150.00
+        },
+        {
+            "name": "Mango Shake",
+            "price": 120.00
+        },
+        {
+            "name": "Fresh Lime Soda",
+            "price": 90.00
+        }
+    ]
+}
